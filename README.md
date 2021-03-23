@@ -11,8 +11,3 @@ Hey, my name is Maanav Garg and I’m a Computer Science student [@MacU](https:/
 <h3 align="left">Internship Roster</h3>
 
 [@Citadel](https://www.citadel.com), [@Roblox](https://corp.roblox.com), [@Halo](https://www.halo.science), [@Microsoft](https://www.microsoft.com), [@Deloitte](https://www2.deloitte.com/) and [@IBM](https://www.ibm.com)
-
-
-<h3 align="left">Cool/Important Links</h3>
-
-<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> <img src="https://img.icons8.com/fluent/48/000000/email-open.png"/> <img src="https://img.icons8.com/color/48/000000/link--v1.png"/> <img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/>
