@@ -8,6 +8,6 @@ Hey, my name is Maanav Garg and I’m a Computer Science student [@MacU](https:/
 
 <br/>
 
-<h3 align="left">Internship Roster</h3>
+<h3 align="left" src="https://maanavgarg.com/files/Resume.pdf">Internship Roster</h3>
 
 [@Citadel](https://www.citadel.com), [@Roblox](https://corp.roblox.com), [@Halo](https://www.halo.science), [@Microsoft](https://www.microsoft.com), [@Deloitte](https://www2.deloitte.com/) and [@IBM](https://www.ibm.com)
