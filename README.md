@@ -1,13 +1,16 @@
 
 <h1 align="left">Maanav Garg</h1>
 
-Hey, my name is Maanav Garg and I’m a 4th year Computer Science student [@MacU](https://www.eng.mcmaster.ca/cas/programs/degree-options/basc/computer-science).
+Hey, my name is Maanav Garg and I’m currently a Software Engineer [@Citadel](https://www.citadel.com).
 
-* Right now you I'm wrapping up a SWE Internship [@Roblox](https://corp.roblox.com) and this Fall I'll be completing another SWE Internship [@Citadel](https://www.citadel.com).
-* I'm actively looking for SWE, 2022 New Grad opportunities - Here's my [resume](https://maanavgarg.com/files/Resume.pdf), feel free to shoot me a message via [e-mail](mailto:maanavgarg@icloud.com) or on [LinkedIn](https://www.linkedin.com/in/maanavgarg/)!
+I graduated from [@MacU](https://www.eng.mcmaster.ca/cas/programs/degree-options/basc/computer-science) in April 2022, and during that time, I accumulated close to 4 years of internship work experience at the following companies:
+* SWE [@Coinbase](https://www.coinbase.com) Jan '22 - Apr '22
+* SWE [@Citadel](https://www.citadel.com) Sept '21 - Dec '21
+* SWE [@Roblox](https://corp.roblox.com) Jun '21 - Sept '21
+* SWE [@Halo](https://www.halo.science) Mar '21 - Jun '21
+* SWE/PM [@Microsoft](https://www.microsoft.com) May '20 - Aug '20
+* Consulting Analyst [@Deloitte](https://www2.deloitte.com/) Jan '20 - Apr '20
+* SWE [@IBM](https://www.ibm.com) May '18 - Aug '19 (16-months)
 
-<br/>
 
-<h3 align="left">Internship Roster</h3>
-
-[@Citadel](https://www.citadel.com), [@Roblox](https://corp.roblox.com), [@Halo](https://www.halo.science), [@Microsoft](https://www.microsoft.com), [@Deloitte](https://www2.deloitte.com/) and [@IBM](https://www.ibm.com)
+Happy to connect - Feel free to shoot me a message via [e-mail](mailto:maanavgarg@icloud.com) or on [LinkedIn](https://www.linkedin.com/in/maanavgarg/)!
