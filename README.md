@@ -1,7 +1,9 @@
 
 <h1 align="left">Maanav Garg</h1>
 
-Hey, my name is Maanav Garg and I’m currently a Software Engineer [@Citadel](https://www.citadel.com).
+Hey, my name is Maanav Garg and I’m currently pursuing a Master of Science, in Computer Science [@GeorgiaTech](https://www.gatech.edu).
+
+Prior to this, I was working as an Quantitative Developer [@Citadel](https://www.citadel.com) within their Commodities group.
 
 I graduated from [@MacU](https://www.eng.mcmaster.ca/cas/programs/degree-options/basc/computer-science) in April 2022, and during that time, I accumulated close to 4 years of internship work experience at the following companies:
 * SWE [@Coinbase](https://www.coinbase.com) Jan '22 - Apr '22
